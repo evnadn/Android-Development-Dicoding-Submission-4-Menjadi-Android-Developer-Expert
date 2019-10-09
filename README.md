@@ -39,7 +39,7 @@ Fitur yang harus ada pada aplikasi:
    - Aplikasi harus bisa menjaga data yang sudah dimuat ketika terjadi pergantian orientasi dari potrait ke landscape atau sebaliknya.
 
 ## Note
-Bagi teman-teman yang mengambil kelas Belajar Membuat Aplikasi Android untuk Pemula di Dicoding, silahkan menggunakan source ini sebagai referensi. Tetapi **TIDAK** untuk di copas seutuhnya tanpa tau fungsinya.
+Bagi teman-teman yang mengambil kelas Menjadi Android Developer Expert di Dicoding, silahkan menggunakan source ini sebagai referensi. Tetapi **TIDAK** untuk di copas seutuhnya tanpa tau fungsinya.
 
 Jika ada kendala, ayo kita diskusikan bersama :) 
 
