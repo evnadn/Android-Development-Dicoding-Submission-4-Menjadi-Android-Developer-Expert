@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="image_photo">Poster Film</string>
+    <string name="tab_movies">FILM</string>
+    <string name="tab_tvshows">TELEVISI</string>
+    <string name="tab_favorite">DISUKAI</string>
+    <string name="settings">Pengaturan</string>
+</resources>
